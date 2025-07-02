@@ -5,6 +5,8 @@ the performance of the strategy using various metrics.
 
 
 
+
+
 ## **Setup Instructions**:-
 1) Install required libraries -
     - **yfinance** for retrieving stock data
@@ -20,9 +22,13 @@ ratio, and maximum drawdown.
 
 
 
+
+
 ## **Usage**:
 - Run the script and follow the prompts to select a stock and strategy.
 - Modify the script to add custom strategies or adjust parameters.
+
+
 
 
 
