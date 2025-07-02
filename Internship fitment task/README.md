@@ -4,9 +4,6 @@ This project is a Python-based backtester for stock trading strategies. It allow
 the performance of the strategy using various metrics.
 
 
-
-
-
 ## **Setup Instructions**:-
 1) Install required libraries -
     - **yfinance** for retrieving stock data
@@ -21,15 +18,9 @@ ratio, and maximum drawdown.
 5) Visualize the results: The script will also display a plot of the equity curve and a candlestick chart with buy and sell signals.
 
 
-
-
-
 ## **Usage**:
 - Run the script and follow the prompts to select a stock and strategy.
 - Modify the script to add custom strategies or adjust parameters.
-
-
-
 
 
 #### **Disclaimer** -
