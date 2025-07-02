@@ -1,7 +1,7 @@
 # **Stock Trading Strategy Backtester**
 
-This project is a Python-based backtester for stock trading strategies. It allows users to select a stock, choose a strategy, and evaluate the performance of the strategy using various 
-metrics.
+This project is a Python-based backtester for stock trading strategies. It allows users to select a stock, choose a strategy, and evaluate 
+the performance of the strategy using various metrics.
 
 
 ## **Setup Instructions**:-
@@ -13,7 +13,8 @@ metrics.
     - **matplotlib** for plotting equity curves
 2) Select a stock: Choose a stock from the list of available stocks.
 3) Choose a strategy: Select a strategy to backtest (SMA, RSI + MACD, or combined.)
-4) View the results: The script will display the backtest report, including metrics such as win rate, final portfolio value, CAGR, Sharpe ratio, and maximum drawdown.
+4) View the results: The script will display the backtest report, including metrics such as win rate, final portfolio value, CAGR, Sharpe 
+ratio, and maximum drawdown.
 5) Visualize the results: The script will also display a plot of the equity curve and a candlestick chart with buy and sell signals.
 
 
