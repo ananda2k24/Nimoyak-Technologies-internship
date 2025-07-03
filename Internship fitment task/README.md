@@ -16,12 +16,12 @@ the performance of the strategy using various metrics.
 6) Visualize the results: The script will also display plots of the _equity curve_, _price volume_, and _RSI - MACD chart_.
 
 
-## **Usage**:
+### **Usage**:
 - Run the script and follow the prompts to select a stock and strategy.
 - Modify the script to add custom strategies or adjust parameters.
 
 
-## **Troubleshooting** -
+### **Troubleshooting** -
 If you encounter any issues with the script, check the console output for error messages.  
 Make sure you have installed all the required libraries and have the necessary dependencies.
 
