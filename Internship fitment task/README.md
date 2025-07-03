@@ -1,6 +1,6 @@
 # **Stock Trading Strategy Backtester**
 
-This project is a Python-based backtester for stock trading strategies. It allows users to select a stock, choose a strategy, and evaluate 
+This project is a Python based backtester for stock trading strategies. It allows users to select a stock, choose a strategy and evaluate 
 the performance of the strategy using various metrics.
 
 
@@ -24,4 +24,4 @@ ratio, and maximum drawdown.
 
 
 #### **Disclaimer** -
-This project is for educational purposes only and should not be used as investment advice. Trading stocks involves risk, and past performance is not guaranteed to repeat in the future.
+This project is for educational purposes only and should not be used as investment advice. Trading stocks involves risk and past performance is not guaranteed to repeat in the future.
