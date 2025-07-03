@@ -6,10 +6,10 @@ the performance of the strategy using various metrics.
 
 ## **Setup Instructions**: -
 1) Install required libraries -
-    - **yfinance** for _retrieving stock data_.
-    - **pandas** for _data manipulation_.
-    - **numpy** for _numerical computations_.
-    - **matplotlib** for _plotting charts_.
+    - **_yfinance_** for retrieving stock data.
+    - **_pandas_** for data manipulation.
+    - **_numpy_** for numerical computations.
+    - **_matplotlib_** for plotting charts.
 2) Select a stock: Choose a stock from the list of available stocks.
 3) Choose a strategy: Select a strategy to backtest _(SMA, RSI + MACD, or combined)_.
 4) View the results: The script will display the backtest report, including metrics such as _win rate_, _final portfolio value_, _CAGR_, _Sharpe ratio_, and _Maximum Drawdown_.
@@ -22,8 +22,8 @@ the performance of the strategy using various metrics.
 
 
 ## **Troubleshooting** -
-- If you encounter any issues with the script, check the console output for error messages.
-- Make sure you have installed all the required libraries and have the necessary dependencies.
+If you encounter any issues with the script, check the console output for error messages.
+Make sure you have installed all the required libraries and have the necessary dependencies.
 
 
 #### **Disclaimer** -
