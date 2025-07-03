@@ -17,12 +17,12 @@ the performance of the strategy using various metrics.
 
 
 ## **Usage**:
-- Run the script and follow the prompts to select a stock and strategy.\
+- Run the script and follow the prompts to select a stock and strategy.
 - Modify the script to add custom strategies or adjust parameters.
 
 
 ## **Troubleshooting** -
-If you encounter any issues with the script, check the console output for error messages.
+If you encounter any issues with the script, check the console output for error messages.  
 Make sure you have installed all the required libraries and have the necessary dependencies.
 
 
