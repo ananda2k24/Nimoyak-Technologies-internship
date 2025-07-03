@@ -22,8 +22,8 @@ the performance of the strategy using various metrics.
 
 
 ## **Troubleshooting** -
-If you encounter any issues with the script, check the console output for error messages.
-Make sure you have installed all the required libraries and have the necessary dependencies.
+- If you encounter any issues with the script, check the console output for error messages.
+- Make sure you have installed all the required libraries and have the necessary dependencies.
 
 
 #### **Disclaimer** -
