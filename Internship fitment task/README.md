@@ -17,7 +17,7 @@ the performance of the strategy using various metrics.
 
 
 ## **Usage**:
-- Run the script and follow the prompts to select a stock and strategy.
+- Run the script and follow the prompts to select a stock and strategy.\
 - Modify the script to add custom strategies or adjust parameters.
 
 
